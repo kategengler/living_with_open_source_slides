@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    font-family: "gothic-open-shaded", sans-serif;
-    line-height: 1.0;
+    font-family: "lobster", sans-serif;
+    line-height: 1.2;
     font-size: 45px;
 }
 
@@ -81,7 +81,6 @@ a:hover {
 }
 
 .big {
-    text-transform: uppercase;
     margin: 0;
     padding: 0;
 }
@@ -166,20 +165,31 @@ blockquote .author {
 
 /* STEP SPECIFIC STYLES */
 #title {
+    width: 1240px;
+    height: 600px;
     text-align: left;
-    color: darkGreen;
-    height: 800px;
+    color: #09472c;
 }
 
 #title-text1 {
+    font-size: 125px;
 }
 
 #title-text2 {
-    font-size: 153px;
+    font-family: 'gothic-open-shaded', serif;
+    font-size: 160px;
 }
 
 #title-text3 {
-    font-size: 153px;
+    font-size: 150px;
+    text-align: center;
+    margin-top: -65px;
+    margin-left: 139px;
+}
+
+#title-text4 {
+    text-align: right;
+    margin-top: 120px;
 }
 
 #respond-text1 {
