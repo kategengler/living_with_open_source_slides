@@ -12,6 +12,7 @@ body {
     position: fixed;
     height: 100%;
     width: 100%;
+    color: #09472c;
     background: #c9de96; /* Old browsers */
     background-image: url("../img/noise.png"), -moz-linear-gradient(top, #c9de96 0%, #8ab66b 44%, #398235 100%); /* FF3.6+ */
     /*background: -moz-linear-gradient(top, #c9de96 0%, #8ab66b 44%, #398235 100%); *//* FF3.6+ */
@@ -168,7 +169,6 @@ blockquote .author {
     width: 1240px;
     height: 600px;
     text-align: left;
-    color: #09472c;
 }
 
 #title-text1 {
@@ -189,15 +189,13 @@ blockquote .author {
 
 #title-text4 {
     text-align: right;
+    font-size: 45px;
     margin-top: 120px;
 }
 
-#respond-text1 {
-    font-size: 84px;
-}
-
-#respond-text2 {
-    font-size: 202px;
+.big div {
+    font-size: 200px;
+    font-family: "atrament-web";
 }
 
 #respond-text3 {
