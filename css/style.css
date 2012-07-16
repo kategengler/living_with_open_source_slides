@@ -33,6 +33,7 @@ body {
 .big {
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 .bold {
@@ -158,6 +159,10 @@ blockquote .author {
 .big div.bolden {
     font-family: adelle;
     font-weight: bold;
+    color: #3e0745;
+}
+
+.highlight {
     color: #3e0745;
 }
 
