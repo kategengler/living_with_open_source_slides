@@ -151,15 +151,19 @@ blockquote .author {
 #choosing {
     line-height: 1;
 }
-#choosing .big div {
+#choosing .big div, #finding .big div {
     font-size: 125px;
     text-align: left;
 }
 
-.big div.bolden {
+.big div.bolden, .bolden {
     font-family: adelle;
     font-weight: bold;
     color: #3e0745;
+}
+
+#finding .bolden {
+    color: #155b8a;
 }
 
 .highlight {
