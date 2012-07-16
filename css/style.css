@@ -162,8 +162,19 @@ blockquote .author {
     color: #3e0745;
 }
 
+.big div.first div {
+    font-size:68px;
+}
+.big div.last div {
+    font-size: 45px;
+}
+
 #finding .bolden {
     color: #155b8a;
+}
+
+#deciding .bolden {
+    color: #ad430d;
 }
 
 .highlight {
