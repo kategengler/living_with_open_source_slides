@@ -197,6 +197,10 @@ blockquote .author {
     color: #ad430d;
 }
 
+#contributing .bolden {
+    color: #fff5ff;
+}
+
 .highlight {
     color: #3e0745;
 }
