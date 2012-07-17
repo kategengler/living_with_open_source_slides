@@ -169,6 +169,26 @@ blockquote .author {
     font-size: 45px;
 }
 
+#living .big div.first div {
+    font-size: 92px;
+}
+
+#living .first {
+    text-align: left;
+}
+
+#living .last {
+    text-align: right;
+}
+
+#living .big div.last div {
+    font-size: 60px;
+}
+
+#living .bolden {
+    color: #c8ff1b;
+}
+
 #finding .bolden {
     color: #155b8a;
 }
