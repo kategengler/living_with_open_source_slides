@@ -213,3 +213,10 @@ blockquote .author {
     clear:both;
 }
 
+.question {
+    font-family: atrament-web;
+    font-size: 80px;
+    text-align:left;
+    line-height:  1;
+}
+
