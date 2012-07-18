@@ -189,7 +189,7 @@ blockquote .author {
     color: #c8ff1b;
 }
 
-#finding .bolden {
+#finding .bolden, #finding-1 {
     color: #155b8a;
 }
 
@@ -205,4 +205,11 @@ blockquote .author {
     color: #3e0745;
 }
 
+#finding-1 div {
+    float: left;
+    font-family: atrament-web;
+    margin-left: 20px;
+    margin-right: 20px;
+    clear:both;
+}
 
